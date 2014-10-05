@@ -1,0 +1,27 @@
+{
+  "name": "rect-crop",
+  "version": "0.0.0",
+  "description": "Crop a dimension in a viewport: Compute a rectangle from a zoom ratio and a center point while preserving the dimension ratio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gre/rect-crop"
+  },
+  "keywords": [
+    "rect",
+    "rectangle",
+    "2d",
+    "crop",
+    "bound",
+    "ratio"
+  ],
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gre/rect-crop/issues"
+  },
+  "homepage": "https://github.com/gre/rect-crop"
+}
